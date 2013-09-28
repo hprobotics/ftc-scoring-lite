@@ -2,7 +2,7 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package org.beastiebots.FTCScoringLite.BlockParty.enums;
+package org.beastiebots.ftcScoringLite.blockParty.enums;
 
 import java.util.ArrayList;
 import java.util.Arrays;

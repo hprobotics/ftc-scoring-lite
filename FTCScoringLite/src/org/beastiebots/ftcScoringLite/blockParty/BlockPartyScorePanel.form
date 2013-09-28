@@ -27,7 +27,7 @@
                           <Component id="jLabel9" min="-2" max="-2" attributes="0"/>
                           <EmptySpace max="-2" attributes="0"/>
                           <Component id="irPos" min="-2" max="-2" attributes="0"/>
-                          <EmptySpace min="0" pref="222" max="32767" attributes="0"/>
+                          <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
                       </Group>
                       <Component id="endgame" alignment="0" max="32767" attributes="0"/>
                       <Component id="penalties" alignment="0" max="32767" attributes="0"/>

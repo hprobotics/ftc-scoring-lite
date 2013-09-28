@@ -2,9 +2,9 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package org.beastiebots.FTCScoringLite.BlockParty;
+package org.beastiebots.ftcScoringLite.blockParty;
 
-import org.beastiebots.FTCScoringLite.BlockParty.enums.*;
+import org.beastiebots.ftcScoringLite.blockParty.enums.*;
 import java.io.Serializable;
 
 /**
