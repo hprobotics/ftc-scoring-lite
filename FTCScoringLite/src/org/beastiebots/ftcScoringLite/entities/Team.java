@@ -10,7 +10,7 @@ import java.io.Serializable;
  *
  * @author Jacob
  */
-class Team implements Serializable{
+public class Team implements Serializable{
     private int number;
     private String name;
 

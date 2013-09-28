@@ -10,7 +10,7 @@ import java.io.Serializable;
  *
  * @author Jacob
  */
-class Match implements Serializable {
+public class Match implements Serializable {
 
     Score redScore;
     Score blueScore;

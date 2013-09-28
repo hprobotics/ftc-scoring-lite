@@ -150,6 +150,7 @@ public class BlockPartyScore implements Score,Serializable{
         return score;
     }
     
+    @Override
     public int getPenaltyScore(){
         int score = 0;
         score += minorPenalies*10;
@@ -157,6 +158,7 @@ public class BlockPartyScore implements Score,Serializable{
         return score;
     }
 
+    @Override
     public int getScore(){
         return getAutoScore()+pendulum.getScore()+getEndGameScore();
     }
