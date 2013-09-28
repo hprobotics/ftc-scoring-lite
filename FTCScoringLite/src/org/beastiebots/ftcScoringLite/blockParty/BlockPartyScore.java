@@ -6,12 +6,13 @@ package org.beastiebots.ftcScoringLite.blockParty;
 
 import org.beastiebots.ftcScoringLite.blockParty.enums.*;
 import java.io.Serializable;
+import org.beastiebots.ftcScoringLite.entities.Score;
 
 /**
  *
  * @author Jacob
  */
-public class BlockPartyScore implements Serializable{
+public class BlockPartyScore implements Score,Serializable{
 
     private AutoBlock IRgoal;
     private AutoBlock autoGoal1;
